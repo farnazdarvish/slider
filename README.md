@@ -1,5 +1,6 @@
 # slider
 
+![1](https://github.com/user-attachments/assets/e57afe65-95de-4363-9974-dfd47da1404b)
 
 - [Demo Project]()
 
